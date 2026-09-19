@@ -1,11 +1,11 @@
 /* Wildflower Wellness visual overrides.
    Edit these tokens first when changing the site's look. */
 :root {
-  --wildflower-night: #051424;
-  --wildflower-deep: #010f1e;
-  --wildflower-panel: #122130;
-  --wildflower-gold: #e9c349;
-  --wildflower-gold-soft: #ffe088;
+  --wildflower-night: rgb(5 20 36 / 67%);
+  --wildflower-deep: rgb(11 20 31 / 0.82);
+  --wildflower-panel: rgb(18 33 48 / 0.88);
+  --wildflower-gold: rgb(170 112 62 / 0.92);
+  --wildflower-gold-soft: #c68b4d;
   --wildflower-ink: #d4e4fa;
   --wildflower-muted: #c5c6cd;
   --wildflower-radius: 0.75rem;
